@@ -64,7 +64,7 @@ app.use(session({
         
         },
         function(err){
-            console.log(err ||  'connect-mongodb setup ok');
+            console.log(err ||  'connect-mongodb setup is done');
         }
     )
 }));
