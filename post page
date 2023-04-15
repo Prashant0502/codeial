@@ -1,0 +1,17 @@
+[33mcommit 01ce3a0bb515c040cd3d7a9ee798962a27c8f453[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mmannual-local-auth[m[33m)[m
+Author: Prashant0502 <ps842848@gmail.com>
+Date:   Sat Mar 18 18:08:40 2023 +0530
+
+    static files access for layouts and pages
+
+[33mcommit 2c1d234d2b8ab2ba631065ea03ab1242140cfb56[m
+Author: Prashant0502 <ps842848@gmail.com>
+Date:   Wed Mar 15 17:47:14 2023 +0530
+
+    add a controller and route for home
+
+[33mcommit e11daf2f64cf763ad98237e6e71797ee5d8e49db[m
+Author: Prashant0502 <ps842848@gmail.com>
+Date:   Wed Mar 15 12:35:18 2023 +0530
+
+    first commit create the directory

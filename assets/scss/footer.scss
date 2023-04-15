@@ -1,0 +1,21 @@
+#layout-footer{
+    color: rgb(29, 10, 203);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    a{
+        color:rgb(29, 10, 203);
+        text-decoration: none;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    background: rgb(229, 153, 153);
+    padding: 10px 15px;
+    display: flex;
+    
+    justify-content: flex-start;
+
+    .footer-nav{
+        ul{
+            list-style: none;
+        }
+    }
+}

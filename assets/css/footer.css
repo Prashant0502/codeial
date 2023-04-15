@@ -1,0 +1,13 @@
+#layout-footer {
+  color: #1d0acb;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background: #e59999;
+  padding: 10px 15px;
+  display: flex;
+  justify-content: flex-start; }
+  #layout-footer a {
+    color: #1d0acb;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+  #layout-footer .footer-nav ul {
+    list-style: none; }
